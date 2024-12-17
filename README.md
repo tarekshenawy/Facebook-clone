@@ -1,2 +1,2 @@
 # Facebook-clone
-A social media platform clone mimicking basic functionality of Facebook, built using HTML, Bootstrap, JavaScript, and integrated with API for fetching user data. This project also includes user authentication
+This is a simple Facebook clone built with html and bootstrap and javascript . The application mimics the core features of Facebook, including user authentication, news feed, posting content, liking posts, and a basic user profile page. It is designed to help demonstrate my skills in React and frontend web development.
